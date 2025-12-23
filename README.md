@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Davi Campaner, tenho 18 anos e sou natural de São Paulo. Sou Técnico em Eletrônica pela ETEC Prof. Horácio Augusto da Silveira e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC. Sou entusiasta da tecnologia e possuo um perfil profissional no Linkedin "[Davi Campaner](https://www.linkedin.com/in/campanerdavi/)".
+Me chamo Davi Campaner, tenho 19 anos e sou natural de São Paulo. Sou Técnico em Eletrônica pela ETEC Prof. Horácio Augusto da Silveira e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC. Sou entusiasta da tecnologia e possuo um perfil profissional no Linkedin "[Davi Campaner](https://www.linkedin.com/in/campanerdavi/)".
 
 <a href="https://www.linkedin.com/in/campanerdavi/"><img width="42px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
