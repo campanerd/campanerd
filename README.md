@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Eu me chamo Davi Campaner, tenho 19 anos e sou natural de São Paulo. Sou Técnico em Eletrônica pela ETEC Prof. Horácio Augusto da Silveira e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC. Sou entusiasta da tecnologia e possuo um perfil profissional no Linkedin "[Davi Campaner](https://www.linkedin.com/in/campanerdavi/)".
+Eu me chamo Davi Campaner, tenho 19 anos e sou de São Paulo. Sou Técnico em Eletrônica pela ETEC Prof. Horácio Augusto da Silveira e atualmente estou no terceiro semestre do curso Análise e Desenvolvimento de Sistemas na FATEC São Paulo. Sou entusiasta da tecnologia e possuo um perfil profissional no Linkedin "[Davi Campaner](https://www.linkedin.com/in/campanerdavi/)".
 
 <a href="https://www.linkedin.com/in/campanerdavi/"><img width="42px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
@@ -51,6 +51,15 @@ Eu me chamo Davi Campaner, tenho 19 anos e sou natural de São Paulo. Sou Técni
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"    
 />
 
 <br/>
