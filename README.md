@@ -62,6 +62,16 @@ Eu me chamo Davi Campaner, tenho 19 anos e sou de São Paulo. Sou Técnico em El
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"    
 />
 <br clear="left"/>
+
+<br clear="left"/>
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=campanerd,Lpalma0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  
 <br/>
 
 
