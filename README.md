@@ -64,7 +64,6 @@ Eu me chamo Davi Campaner, tenho 19 anos e sou de São Paulo. Sou Técnico em El
 <br clear="left"/>
 <br/>
 
-![Metrics](https://metrics.lecoq.io/campanerd?template=classic&languages=1&languages.limit=6&languages.colors=github)
 
 
 
