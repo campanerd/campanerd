@@ -42,7 +42,4 @@ Tenho 19 anos e sou de São Paulo. Técnico em Eletrônica pela ETEC Prof. Horá
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats-multiuser.vercel.app/api?username=campanerd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?username=campanerd&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
-</div>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=campanerd&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
