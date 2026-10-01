@@ -9,11 +9,3 @@ Tenho 20 anos, moro em São Paulo e curso o quarto semestre de Análise e Desenv
 
 ---
 
-### Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=campanerd&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&custom_title=Linguagens" />
-  <a href="https://www.linkedin.com/in/campanerdavi/">
-    <img src="https://img.icons8.com/color/48/linkedin-circled.png" width="48" height="48" alt="LinkedIn" style="vertical-align: 25px;" />
-  </a>
-</p>
